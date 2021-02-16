@@ -1,0 +1,50 @@
+
+body {
+	background-image: url(images/code.png);
+	font-family: Verdana;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 100px;
+	padding-top: 200px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 15px;
+}
+
+.sub-title {
+	font-size: 20px;
+	line-height: 10px;
+}
+
+.button_div {
+	margin-top: 50px;
+}
+.button {
+	text-decoration: none;
+	background-color: rgb(204,0,0);
+	color: white;
+	font-size: 20px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+}
+.button:hover {
+	background-color: rgba(204,0,0,0.7);
+}
+
+.list{
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 80px;
+}
+
+.list li {
+	display: inline;
+}
+
+.list a {
+	color: White;
+	font-size: 30px;
+}
